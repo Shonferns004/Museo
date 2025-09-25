@@ -46,8 +46,18 @@ cd admin
 npm install
 npm run dev
 ```
-Runs the admin dashboard on http://localhost:5173
+- Setup Client App
+```
+cd client
+npm install
+npm run dev
+```
+- Setup Model 
+```
+cd model
+pip install -r requirements.txt
 
+```
 ---
 
 ## 🧑‍💻 Development Notes
