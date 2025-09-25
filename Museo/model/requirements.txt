@@ -1,0 +1,7 @@
+Flask
+pymongo
+google-generativeai
+folium
+geopy
+flask-cors
+difflib
